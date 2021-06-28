@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Печенье",
+        "subcategories": [
+            {
+                "id": 2,
+                "name": "Oreo"
+            },
+            {
+                "id": 3,
+                "name": "Milka"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Шоколад",
+        "subcategories": [
+            {
+                "id": 5,
+                "name": "Milka"
+            },
+            {
+                "id": 6,
+                "name": "Cadbury"
+            },
+            {
+                "id": 7,
+                "name": "Mars"
+            }
+        ]
+    }
+]
